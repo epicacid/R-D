@@ -1,0 +1,14 @@
+{ 
+  "Leerlingen" : [
+    { 
+      "Voornaam": "Noah",
+      "Achternaam": "Senteur",
+      "Leeftijd": 20
+    },
+    {
+      "Voornaam": "Henk",
+      "Achternaam": "Drop",
+      "Leeftijd": 20
+    }
+  ]
+}
